@@ -50,6 +50,7 @@ header {
   text-align: center;
   padding: 10px 0 50px;
 }
+
 header h1 {
   text-align: center;
   text-transform: uppercase;
@@ -68,6 +69,22 @@ header h1 span {
 }
 header p {
   padding-top: 30px;
+}
+
+
+footer {
+  background-color: #16a085;
+  color: #000;
+  text-align: center;
+  padding: 5px 0 5px;
+}
+
+
+footer h1{
+  background-color: #16a085;
+  color: #000;
+  text-align: center;
+  padding: 5px 0 5px;
 }
 
 .gallery {
@@ -220,7 +237,6 @@ header p {
 .carousel-container {
   width: 40%;
   float: right;
-
 
 }
 
